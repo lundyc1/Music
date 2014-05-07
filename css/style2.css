@@ -167,6 +167,12 @@ h1, h2, h3, h4, h5, h6 {
 	font-size: 18px;
 }
 
+#midart td {
+	text-align: justify;
+	text-indent: 50px;
+	font-size: 18px;
+}
+
 #midart .center p, .center p, .center {
 	text-indent: 0;
 	text-align: center;
@@ -259,3 +265,4 @@ footer .right, .right{
 .social a{
 	padding:9px 30px 5px 20px!important;
 }
+
