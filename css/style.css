@@ -162,6 +162,12 @@ h1, h2, h3, h4, h5, h6 {
 	font-size: 20px;
 }
 
+#midart p2 {
+	text-align: justify;
+	text-indent: 50px;
+	font-size: 18px;
+}
+
 #midart .center p, .center p, .center {
 	text-indent: 0;
 	text-align: center;
