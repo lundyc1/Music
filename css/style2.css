@@ -251,3 +251,12 @@ footer .right, .right{
 .teswrap {
 	float: left;
 }
+.social{
+	float:right!important;
+}
+.social img{
+ margin: inherit;
+}
+.social a{
+	padding:9px 30px 5px 20px!important;
+}
