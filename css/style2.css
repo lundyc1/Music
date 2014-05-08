@@ -55,6 +55,7 @@ body {
 	margin: 0;
 	background-image:url('https://lh6.googleusercontent.com/vbMDETslj0JkIqNa24w3uLgC_aFR5Fykvd0pHiL8iFllmEGFW-9DHBv0fj06Sz4JZA=w1002-h469');
 background-size:1600px 900px;
+background-attachment:fixed;
 }
 p {
 	margin: 10px 0;
