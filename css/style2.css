@@ -272,3 +272,6 @@ footer .right, .right{
 .social a{
 	padding:9px 30px 5px 20px!important;
 }
+.player iframe{
+float:right;
+}
